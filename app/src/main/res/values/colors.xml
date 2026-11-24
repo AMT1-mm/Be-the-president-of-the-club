@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="stadium_night">#FF070D1A</color>
+    <color name="stadium_surface">#FF0F1A2E</color>
+    <color name="pitch_teal">#FF14C9B8</color>
+    <color name="trophy_gold">#FFFFD34D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

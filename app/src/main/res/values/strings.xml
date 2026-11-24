@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">كون مدرب</string>
+    <string name="loading_game">جاري تجهيز الملعب ثلاثي الأبعاد…</string>
+    <string name="offline_banner_message">لا يوجد اتصال بالإنترنت — الوضع ثنائي الأبعاد يعمل دون اتصال، بينما يتطلب العرض ثلاثي الأبعاد واللعب مع صديق اتصالاً بالإنترنت.</string>
+    <string name="action_reload">إعادة المحاولة</string>
+    <string name="action_dismiss">إخفاء</string>
+    <string name="exit_dialog_title">الخروج من اللعبة؟</string>
+    <string name="exit_dialog_message">يتم حفظ تقدمك تلقائياً على جهازك. هل تريد إغلاق لعبة كون مدرب؟</string>
+    <string name="exit_dialog_confirm">خروج</string>
+    <string name="exit_dialog_cancel">البقاء</string>
+    <string name="js_dialog_title">كون مدرب</string>
+    <string name="js_dialog_ok">حسناً</string>
+    <string name="js_dialog_cancel">إلغاء</string>
+    <string name="exit_fullscreen_cd">إنهاء وضع ملء الشاشة</string>
+</resources>

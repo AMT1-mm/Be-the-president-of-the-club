@@ -1,0 +1,6 @@
+{
+  "name": "كون مدرب",
+  "description": "لعبة محاكاة وإدارة كرة القدم ثلاثية الأبعاد — كوّن فريقك، درّب اللاعبين، وتنافس على البطولات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
